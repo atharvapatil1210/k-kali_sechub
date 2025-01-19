@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+
+# Node.js
+node_modules/
+
+# MongoDB Data (if running locally with data stored in the project)
+data/
+
+# Sensitive configuration files (e.g., API keys)
+config.py
+
+# Log files
+*.log
+
+# Python virtual environment
+*.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDEs and text editors
+.idea/
+.vscode/
+*.swp
+
+# Optional: If using Jupyter notebooks
+.ipynb_checkpoints/
